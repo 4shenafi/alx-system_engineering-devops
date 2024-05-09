@@ -1,0 +1,9 @@
+The correct statements are:
+
+For TCP:
+- It is a protocol that is transferring data in a slow way but surely.
+- The TCP worker might ask: "Have you received boxes x, y, z?" (It ensures data reliability through acknowledgments.)
+
+For UDP:
+- It is a protocol that is transferring data in a fast way and might lose data along the process.
+- UDP does not involve acknowledgment or error checking like TCP, hence the comparison to a "fast but potentially lossy" delivery system.
