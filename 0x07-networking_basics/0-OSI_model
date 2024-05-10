@@ -1,11 +1,2 @@
-The levels of the OSI (Open Systems Interconnection) model are arranged from lowest to highest. 
-It has a seven-layer structure, with each layer handling a certain data communication function. 
-These layers are: 
-1. Physical
-2. Data Link
-3. Network
-4. Transport
-5. Session
-6. Presentation
-7. Application
-In that order from bottom to top. Network communication protocols may be understood and used in a methodical manner because to this hierarchical organization.
+2
+2
